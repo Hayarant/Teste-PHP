@@ -60,7 +60,7 @@ Apaga o veículo
 
 ## Frontend
 
-Desenvolver **UI (User Interface)** de baseado no escopo que está na pasta [layout](https://github.com/oncarsolucoes/Teste-PHP/tree/master/layout)
+Desenvolver **UI (User Interface)** de baseado no escopo que está na pasta [layout](https://github.com/oncarsolucoes/Teste-PHP/tree/master/layout), utilizando HTML, CSS e Javascript (Pode usar jQuery).
 
 ### Especificação
 
